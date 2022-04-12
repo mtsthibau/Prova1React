@@ -1,0 +1,35 @@
+body {
+  font-family: 'Courier New', monospace;
+}
+.App {
+  display: flex;
+  flex-direction: row;
+}
+p{
+  font-size: 20px;
+}
+
+.inputGroup{
+  margin: 50px 0;
+  font-weight: 600;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.body{
+  display: flex;
+  align-self: center;
+  display: flex;
+  width: 50%;
+  padding: 10px 100px 50px 50px;
+  border-left: 2px solid rgb(164 195 52);
+  height:100vh
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}

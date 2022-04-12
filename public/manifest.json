@@ -1,0 +1,25 @@
+{
+  "short_name": "Thibas Travel",
+  "name": "Multiverse is the limit",
+  "icons": [
+    {
+      "src": "et.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "et.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "et.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

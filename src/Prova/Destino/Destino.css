@@ -1,0 +1,13 @@
+.destinos{
+    display: flex;
+    flex-direction: column;
+}
+
+text{
+    text-align: center;
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}

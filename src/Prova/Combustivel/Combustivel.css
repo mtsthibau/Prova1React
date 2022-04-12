@@ -1,0 +1,49 @@
+.combustivel{
+    display: flex;
+    flex-direction: column;
+}
+
+.form{
+    display: flex;
+    flex-direction: row;
+    /* margin-top: 20px; */
+}
+
+
+.formInput{
+    width: 100%;
+    font-size: 25px;
+    border: 2px dotted rgb(164 195 52);
+    font-family: 'Courier New', monospace;
+}
+
+/* .resultado{
+    display: flex;
+    flex-direction: row;
+} */
+
+button{
+    background-color: rgb(164 195 52);
+    font-size: 20px;
+    font-weight: 600;
+    width: 40% !important;
+    justify-content: center;
+    margin-left: 30%;
+}
+
+
+button:hover{
+    background-color: rgb(152, 207, 22);
+    color: #FFF;
+    cursor: pointer;
+}
+
+
+.resultado{
+    margin-top: 100px;
+}
+
+
+.resultado div p{
+    font-size: 20px;
+}

@@ -1,0 +1,40 @@
+.incio{
+    display: flex;
+    flex-direction: column;
+}
+
+.inicio h1{
+    padding-top: 70px;
+}
+
+.destinoSelect{
+    width: 50%;
+    font-size: 25px;
+    border: 2px dotted rgb(164 195 52);
+    font-family: 'Courier New', monospace;
+}
+
+.imgDestino{
+    display: flex;
+    flex-direction: row;
+    /* width: 50%; */
+}
+
+.imgDestino img{
+    width: 98%;
+    padding-left: 2%;
+}
+
+.infos{
+    display: flex;
+    flex-direction: row;
+}
+
+.infos div p{
+    font-size: 30px;
+    width: 250px;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 60px;
+}
